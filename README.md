@@ -9,5 +9,7 @@ uses ['model'] as the elastic doc type and creates
 a unique id from uuid.uuid4()
 
 example use:
-    django2elastic.py data.json index doctype
+```
+django2elastic.py data.json index doctype
+```
 
